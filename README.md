@@ -17,7 +17,7 @@ token = "组成样式为ID + "," + "TOKEN""
 # 记录类型
 record_type = "AAAA"
 # 提主机记录, 如 www，如果不传，默认为 @。
-sub_domain = ""
+sub_domain = "你的主机记录，例www"
 # 记录线路，通过API记录线路获得，中文，比如：默认。
 record_line = "默认"
 ```
