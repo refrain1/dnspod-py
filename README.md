@@ -1,5 +1,5 @@
 # dnspod-py
-一个简易的dnspod python脚本，定时请求dnspod API接口实现DDNS
+一个简易的dnspod python脚本，定时请求dnspod API接口实现IPV6 DDNS，适用于群晖nas、windows和linux等可以安装python环境的操作系统。
 
 # 安装
 ### pip install apscheduler
