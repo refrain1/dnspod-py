@@ -5,6 +5,7 @@
 ### pip install apscheduler
 ### pip install requests
 
+# 一、群晖
 ssh进入群晖，将文件放至/volume1目录
 
 ## 修改main.py文件
@@ -30,5 +31,7 @@ record_line = "默认"
 ### 点击任务设置，修改为如下
 
 ![image](https://user-images.githubusercontent.com/32951222/191224708-cd979fe0-edfd-466f-8068-3fc7cbfbc7d6.png)
+
+# 二、普通运行
 
 python3 /volume1/main.py
