@@ -36,4 +36,4 @@ record_line = "默认"
 
 # 二、普通运行
 
-python3 /volume1/main.py
+python main.py
